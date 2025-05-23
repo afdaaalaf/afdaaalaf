@@ -1,38 +1,34 @@
 # Hi ! I'm Muhammad Afdal Al Fadail🌟
-
-![Animated Banner](https://tenor.com/fAr85z7U40E.gif)
+![giphy_O9nH7aia](https://github.com/user-attachments/assets/4df0821f-ea6a-497b-8c95-bf4de20093fd)
 
 ## 👩‍💻 About Me
 
 - 🎓 Student at **SMA NEGERI 2 PONOROGO**
 - 📚 Majoring in **FrontEnd Developer**
-- 💡 Passionate about **Web Development**
-- 🔧 Tech Stack: `javascript`
-- ✨ Currently working on: **Portfolio** and **Web Competitions**
+- 💡 Passionate about **Web Development** 
+- 🔧 Tech Stack: ![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+- ✨ Currently working on: **Portfolio** and **informatics Competition**
 
 ## 🏆 Competitions
 
-- 🥇 Participating in **LKS Nasional - Web Technology 2024**
-- 🥈 Participating in **LKS Provinsi - Web Technology 2024**
-- 🥉 Participating in **LKS Kota - Web Technology 2024**
+- 🥇 Winner in **Olimpiade Ganesha - Informatika 2024**
 
 ## 🛠️ Projects
 
 - 🎨 Building an **Random Website Page**
 
-## 📬 Contact Me
+## 📬 Connect With Me!
 
-- 📧 Email: [afdal.alfadail@outlook.com](mailto:afdal.alfadail@outlook.com)
-- 📷 Instagram: [@afdaaalaf](https://instagram.com/afdaaalaf)
+- 📧 [Email](mailto:afdal.alfadail@outlook.com)
+- 📷 [Instagram](https://instagram.com/afdaaalaf)
 
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLover-r&layout=compact&theme=radical&langs_count=6)
 
 <!-- Ganti USERNAME di atas dengan username GitHub kamu -->
+> “We know more than we can tell.”
+― Michael Polanyi
 
 ---
-
-> "Designing digital dreams with code and creativity ✨"
-
-![Profile Placeholder](https://via.placeholder.com/150x150.png?text=Your+Photo+Here)
+Always curious, always learning. 🚀
