@@ -21,7 +21,6 @@
 - 📧 [Email](mailto:afdal.alfadail@outlook.com)
 - 📷 [Instagram](https://instagram.com/afdaaalaf)
 - 🤖 [Discord](https://discordapp.com/users/750520531853377697)
-- 🐦 [Twitter / X](https://x.com/afdaaalaf)
 
 ## 📈 GitHub Stats
 
