@@ -17,7 +17,7 @@
 - 🎨 Building a **Random Website Page**
 
 ## 🔗 Socials & Contact
-
+- 🌐 [Portfolio](https://bit.ly/3Fpyr0M)
 - 📧 [Email](mailto:afdal.alfadail@outlook.com)
 - 📷 [Instagram](https://instagram.com/afdaaalaf)
 - 🤖 [Discord](https://discordapp.com/users/750520531853377697)
