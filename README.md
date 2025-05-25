@@ -1,11 +1,12 @@
 # Hi ! I'm Muhammad Afdal Al Fadail 👋🏻
-![giphy_O9nH7aia](https://github.com/user-attachments/assets/4df0821f-ea6a-497b-8c95-bf4de20093fd)
 
 ## 👩‍💻 About Me
+<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhncmJ0Z3FjcjBlbXpvZHN0cGp3ZjIyYjE2NGEyOTNleDV0ankxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" />
 
 - 🎓 Student at **SMA NEGERI 2 PONOROGO** 
 - 💡  Passionate about **Web Development** 
 - 🔧 Currently focused on: **Portfolio** and **Informatics Competition**
+- 🛠️ Projects: Building a **Random Website Page**
 
 ## 🏆 Competitions
 
