@@ -3,8 +3,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Student at **SMA NEGERI 2 PONOROGO**
-- 📚 Learning: `HTML`, `CSS`, `Javascript` 
+- 🎓 Student at **SMA NEGERI 2 PONOROGO** 
 - 💡  Passionate about **Web Development** 
 - 🔧 Currently focused on: **Portfolio** and **Informatics Competition**
 
@@ -16,15 +15,18 @@
 
 - 🎨 Building a **Random Website Page**
 
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
 ## 🔗 Socials & Contact
-- 🌐 [Portfolio](https://bit.ly/3Fpyr0M)
-- 📧 [Email](mailto:afdal.alfadail@outlook.com)
-- 📷 [Instagram](https://instagram.com/afdaaalaf)
-- 🤖 [Discord](https://discordapp.com/users/750520531853377697)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/750520531853377697) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdaaalaf) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/afdaaalaf) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afdal.alfadail@outlook.com) 
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLover-r&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdaaalaf&layout=compact&theme=radical&langs_count=6)
 
 ## 🎨 Fun Facts About Me
 
@@ -36,5 +38,10 @@
 > “We know more than we can tell.”
 ― Michael Polanyi
 
----
-Less Talking More Doing!. 🚀
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afdaaalaf/afdaaalaf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afdaaalaf/afdaaalaf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afdaaalaf/afdaaalaf/output/pacman-contribution-graph.svg">
+</picture>
+
+###
