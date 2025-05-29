@@ -1,7 +1,6 @@
 # Hi ! I'm Muhammad Afdal Al Fadail 👋🏻
 
 ## 👩‍💻 About Me
-<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhncmJ0Z3FjcjBlbXpvZHN0cGp3ZjIyYjE2NGEyOTNleDV0ankxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" />
 
 - 🎓 Student at **SMA NEGERI 2 PONOROGO** 
 - 💡  Passionate about **Web Development** 
