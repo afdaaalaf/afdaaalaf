@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Student at **SMA NEGERI 2 PONOROGO** 
+- 🎓 Student at **SMA NEGERI 1 PONOROGO** 
 - 💡  Passionate about **Web Development** 
 - 🔧 Currently focused on: **Portfolio** and **Informatics Competition**
 - 🛠️ Projects: Building a **Random Website Page**
